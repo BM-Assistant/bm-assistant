@@ -6,5 +6,5 @@ Witaj, Główna dokumentacja tego projektu znajduje się w osobnym folderze, aby
 
 Pełną specyfikację, instrukcje instalacji oraz opisy funkcji znajdziesz tutaj:
 
- **[Przejdź do pełnej dokumentacji](dokumentacja/readme.md)**
+ **[Przejdź do pełnej dokumentacji](dokumentacja/README.md)**
 -----------------------------------------------------------------------
