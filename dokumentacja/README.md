@@ -1,6 +1,6 @@
 # BM Assistant — Dokumentacja Projektu
 
-Robot sterowany przez internet, wyposażony w AI, oparty na mikrokontrolerze ESP32.
+**PROTOTYP** robota  sterowany przez internet, wyposażony w AI, oparty na mikrokontrolerze ESP32.
 
 ---
 
